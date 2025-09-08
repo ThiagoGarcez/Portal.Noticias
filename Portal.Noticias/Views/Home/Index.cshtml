@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Portal Notícias - Avaliação";
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4 text-center">Portal Notícias</h1>
+
+    <p class="lead">
+        Este projeto foi desenvolvido como parte de um exercício prático para demonstrar conhecimentos em
+        <strong>ASP.NET Core MVC</strong> com uso de boas práticas de arquitetura.
+    </p>
+
+    <h3>Funcionalidades</h3>
+    <ul>
+        <li><strong>CRUD de Tags</strong> utilizando as convenções padrão do MVC.</li>
+        <li><strong>CRUD de Notícias</strong> com formulários e operações assíncronas via <strong>AJAX (jQuery)</strong>.</li>
+        <li>Relacionamento <em>n:n</em> entre Notícias e Tags implementado através da entidade <code>NoticiaTag</code>.</li>
+    </ul>
+
+    <h3>Arquitetura</h3>
+    <ul>
+        <li>Aplicação estruturada em camadas seguindo princípios de <strong>DDD</strong> (Domínio, Aplicação, Infra, Repositório e IoC).</li>
+        <li><strong>AutoMapper</strong> para mapeamento entre entidades e modelos de aplicação.</li>
+        <li><strong>Entity Framework Core</strong> para persistência de dados.</li>
+        <li>Uso de <strong>Dependency Injection</strong> para serviços e repositórios.</li>
+    </ul>
+</div>

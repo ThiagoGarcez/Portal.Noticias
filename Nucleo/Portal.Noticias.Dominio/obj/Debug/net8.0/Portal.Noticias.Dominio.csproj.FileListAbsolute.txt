@@ -1,0 +1,11 @@
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\bin\Debug\net8.0\Portal.Noticias.Dominio.deps.json
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\bin\Debug\net8.0\Portal.Noticias.Dominio.dll
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\bin\Debug\net8.0\Portal.Noticias.Dominio.pdb
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\obj\Debug\net8.0\Portal.Noticias.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\obj\Debug\net8.0\Portal.Noticias.Dominio.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\obj\Debug\net8.0\Portal.Noticias.Dominio.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\obj\Debug\net8.0\Portal.Noticias.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\obj\Debug\net8.0\Portal.Noticias.Dominio.dll
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\obj\Debug\net8.0\refint\Portal.Noticias.Dominio.dll
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\obj\Debug\net8.0\Portal.Noticias.Dominio.pdb
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Dominio\obj\Debug\net8.0\ref\Portal.Noticias.Dominio.dll

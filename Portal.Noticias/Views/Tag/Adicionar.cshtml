@@ -1,0 +1,13 @@
+﻿@model Portal.Noticias.Aplicacao.Models.TagModel
+<h2>Criar Tag</h2>
+
+<form asp-action="Adicionar" method="post">
+    <div class="row mb-3">
+            <partial name="_Formulario" model="Model" />
+    </div>
+
+    <button type="submit"  class="btn btn-success">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Portal.Noticias.Aplicacao.Models.NoticiaModel>
+
+@{
+    ViewData["Title"] = "Notícias";
+}
+
+<h2>Notícias</h2>
+
+<a class="btn btn-primary" asp-action="Adicionar">Nova Notícia</a>
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Tags</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody id="tabelaNoticias">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Titulo</td>
+                <td>@item.TagsFormatado</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="Atualizar" asp-route-id="@item.Id">Editar</a>
+                    <button type="button" class="btn btn-sm btn-danger" onclick="Noticias.Deletar(@item.Id)">Excluir</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/noticia.js"></script>
+}

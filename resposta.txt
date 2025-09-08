@@ -1,0 +1,22 @@
+1) No MVC, o que podemos fazer para enviar uma coleção de dados da classe Controller para a View?
+
+Resposta: No MVC, existem diversas formas de enviar dados para a View, tais como: diretamente no Model, usando ViewBag e ViewData.
+Neste projeto por exemplo, utilizei as três formas: 
+	* Diretamente no Model para carregar as informações na hora de editar as entidades; 
+	* ViewBag para enviar todas as tags cadastradas para a View, permitindo a seleção de quais a notícia será vinculada; 
+	* ViewData para simplesmente passar o nome da página Home.
+	
+2) Precisamos validar os dados obrigatórios de um formulário para que não gere exceção no momento de armazenar na fonte de dados. Como podemos fazer isso?
+
+Resposta: Podemos validar dados obrigatórios tanto no front-end quanto no back-end:
+
+Back-end: usar Data Annotations no Model, como [Required], [StringLength], [Range], etc.
+
+Front-end: habilitar validação Unobtrusive Validation do ASP.NET Core.
+
+Também utilizei métodos na classe de serviço para validações de regras de negócio, como impedir que um usuário altere uma notícia que não foi escrita por ele, além de validações das propriedades. Essas validações também poderiam ser implementadas utilizando frameworks como o FluentValidation.
+
+3) Como podemos armazenar configurações (connectionString, URLs de APIs, chaves de acesso) da aplicação que variam de acordo com o ambiente (debug, dev, prod) que será publicado a aplicação?
+
+Resposta: No ASP.NET Core, usamos o arquivo appsettings.json para armazenar configurações padrão e arquivos específicos por ambiente, como por exemplo um appsettings.Debug.json exclusivo para debug.
+Também podemos utilizar serviços como o Azure Key Vault para armazenar essas informações de forma segura, expondo apenas a chave de acesso (Key) do Key Vault.

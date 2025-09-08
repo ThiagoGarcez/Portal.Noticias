@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Portal.Noticias.Aplicacao.Models.TagModel>
+
+@{
+    ViewData["Title"] = "Tags";
+}
+
+<h2>Lista de Tags</h2>
+
+<a class="btn btn-primary" asp-action="Adicionar">Nova Tag</a>
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Descricao</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="Atualizar" asp-route-id="@item.Id">Editar</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Deletar" asp-route-id="@item.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

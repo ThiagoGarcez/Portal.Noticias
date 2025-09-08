@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\portal.noticias\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|solutionrelative:portal.noticias\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\portal.noticias\\views\\tag\\_formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|solutionrelative:portal.noticias\\views\\tag\\_formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A30859-A8D3-4612-B00D-0288CB98214B}|Nucleo\\Portal.Noticias.Aplicacao\\Portal.Noticias.Aplicacao.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\nucleo\\portal.noticias.aplicacao\\models\\tagmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A30859-A8D3-4612-B00D-0288CB98214B}|Nucleo\\Portal.Noticias.Aplicacao\\Portal.Noticias.Aplicacao.csproj|solutionrelative:nucleo\\portal.noticias.aplicacao\\models\\tagmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\portal.noticias\\wwwroot\\js\\noticia.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|solutionrelative:portal.noticias\\wwwroot\\js\\noticia.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\portal.noticias\\views\\noticia\\_formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|solutionrelative:portal.noticias\\views\\noticia\\_formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\portal.noticias\\views\\noticia\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|solutionrelative:portal.noticias\\views\\noticia\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\portal.noticias\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|solutionrelative:portal.noticias\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\portal.noticias\\views\\noticia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|solutionrelative:portal.noticias\\views\\noticia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A30859-A8D3-4612-B00D-0288CB98214B}|Nucleo\\Portal.Noticias.Aplicacao\\Portal.Noticias.Aplicacao.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\nucleo\\portal.noticias.aplicacao\\models\\noticiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A30859-A8D3-4612-B00D-0288CB98214B}|Nucleo\\Portal.Noticias.Aplicacao\\Portal.Noticias.Aplicacao.csproj|solutionrelative:nucleo\\portal.noticias.aplicacao\\models\\noticiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\portal.noticias\\controllers\\noticiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|solutionrelative:portal.noticias\\controllers\\noticiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|c:\\users\\thiag\\onedrive\\documentos\\pessoais\\projetos\\portal_noticias\\portal.noticias\\portal.noticias\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5FFA52-E8FF-4D46-A7FB-18448A7092DD}|Portal.Noticias\\Portal.Noticias.csproj|solutionrelative:portal.noticias\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 134,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Formulario.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Tag\\_Formulario.cshtml",
+              "RelativeDocumentMoniker": "Portal.Noticias\\Views\\Tag\\_Formulario.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Tag\\_Formulario.cshtml",
+              "RelativeToolTip": "Portal.Noticias\\Views\\Tag\\_Formulario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T19:28:38.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Portal.Noticias\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Portal.Noticias\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T19:20:42.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Formulario.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Noticia\\_Formulario.cshtml",
+              "RelativeDocumentMoniker": "Portal.Noticias\\Views\\Noticia\\_Formulario.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Noticia\\_Formulario.cshtml",
+              "RelativeToolTip": "Portal.Noticias\\Views\\Noticia\\_Formulario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T19:12:31.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Noticia\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "Portal.Noticias\\Views\\Noticia\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Noticia\\Adicionar.cshtml",
+              "RelativeToolTip": "Portal.Noticias\\Views\\Noticia\\Adicionar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T19:12:30.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portal.Noticias\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Portal.Noticias\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T19:03:59.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "noticia.js",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\wwwroot\\js\\noticia.js",
+              "RelativeDocumentMoniker": "Portal.Noticias\\wwwroot\\js\\noticia.js",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\wwwroot\\js\\noticia.js",
+              "RelativeToolTip": "Portal.Noticias\\wwwroot\\js\\noticia.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-08T18:59:54.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Noticia\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portal.Noticias\\Views\\Noticia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Views\\Noticia\\Index.cshtml",
+              "RelativeToolTip": "Portal.Noticias\\Views\\Noticia\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T18:51:52.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TagModel.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Nucleo\\Portal.Noticias.Aplicacao\\Models\\TagModel.cs",
+              "RelativeDocumentMoniker": "Nucleo\\Portal.Noticias.Aplicacao\\Models\\TagModel.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Nucleo\\Portal.Noticias.Aplicacao\\Models\\TagModel.cs",
+              "RelativeToolTip": "Nucleo\\Portal.Noticias.Aplicacao\\Models\\TagModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:15:57.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoticiaModel.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Nucleo\\Portal.Noticias.Aplicacao\\Models\\NoticiaModel.cs",
+              "RelativeDocumentMoniker": "Nucleo\\Portal.Noticias.Aplicacao\\Models\\NoticiaModel.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Nucleo\\Portal.Noticias.Aplicacao\\Models\\NoticiaModel.cs",
+              "RelativeToolTip": "Nucleo\\Portal.Noticias.Aplicacao\\Models\\NoticiaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:13:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoticiaController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Controllers\\NoticiaController.cs",
+              "RelativeDocumentMoniker": "Portal.Noticias\\Controllers\\NoticiaController.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Controllers\\NoticiaController.cs",
+              "RelativeToolTip": "Portal.Noticias\\Controllers\\NoticiaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:10:53.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "Portal.Noticias\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\Pessoais\\Projetos\\Portal_Noticias\\Portal.Noticias\\Portal.Noticias\\Controllers\\TagController.cs",
+              "RelativeToolTip": "Portal.Noticias\\Controllers\\TagController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:04:48.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 266,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a18f9d0-b838-11d0-93eb-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

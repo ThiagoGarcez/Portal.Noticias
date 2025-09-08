@@ -1,0 +1,17 @@
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\bin\Debug\net8.0\Portal.Noticias.Infra.deps.json
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\bin\Debug\net8.0\Portal.Noticias.Infra.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\bin\Debug\net8.0\Portal.Noticias.Infra.dll
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\bin\Debug\net8.0\Portal.Noticias.Infra.pdb
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\bin\Debug\net8.0\Portal.Noticias.Dominio.dll
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\bin\Debug\net8.0\Portal.Noticias.Dominio.pdb
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\Portal.Noticias.Infra.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\Portal.Noticias.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\Portal.Noticias.Infra.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\Portal.Noticias.Infra.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\Portal.Noticias.Infra.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\Portal.N.20AC7DBA.Up2Date
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\Portal.Noticias.Infra.dll
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\refint\Portal.Noticias.Infra.dll
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\Portal.Noticias.Infra.pdb
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\Portal.Noticias.Infra.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\Pessoais\Projetos\Portal_Noticias\Portal.Noticias\Nucleo\Portal.Noticias.Infra\obj\Debug\net8.0\ref\Portal.Noticias.Infra.dll

@@ -1,0 +1,16 @@
+﻿@model Portal.Noticias.Aplicacao.Models.NoticiaModel
+<h2>Editar Tag</h2>
+
+<form>
+    <div class="row mb-3">
+        <input type="hidden" asp-for="Id" />
+        <partial name="_Formulario" model="Model" />
+    </div>
+
+    <button type="button" onclick="Noticias.Salvar()" class="btn btn-success">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    <script src="~/js/noticia.js"></script>
+}
